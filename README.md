@@ -45,31 +45,38 @@ Make sure you have the following installed on your machine:
 This project uses the following libraries and tools:
 
 **Next.js**
-The React Framework for Production.
-Next.js Documentation
+
+- The React Framework for Production.
+- Next.js Documentation
 
 **Tailwind CSS**
-A utility-first CSS framework.
-Tailwind CSS Documentation
+
+- A utility-first CSS framework.
+- Tailwind CSS Documentation
 
 **React Icons**
-Include popular icons in your React projects easily.
-React Icons Documentation
+
+- Include popular icons in your React projects easily.
+- React Icons Documentation
 
 **Tailwind Scrollbar**
-A Tailwind CSS plugin for styling scrollbars.
-Tailwind Scrollbar Documentation
+
+- A Tailwind CSS plugin for styling scrollbars.
+- Tailwind Scrollbar Documentation
 
 **Framer Motion**
-A production-ready motion library for React.
-Framer Motion Documentation
+
+- A production-ready motion library for React.
+- Framer Motion Documentation
 
 **Additional Configuration**
-Tailwind CSS Configuration
-Tailwind CSS can be configured by editing the tailwind.config.js file. For more details, refer to the Tailwind CSS Configuration Guide.
+
+- Tailwind CSS Configuration
+- Tailwind CSS can be configured by editing the tailwind.config.js file. For more details, refer to the Tailwind CSS Configuration Guide.
 
 **Framer Motion**
-Framer Motion can be used to add animations to your components. Check the Framer Motion Documentation for examples and API details.
+
+- Framer Motion can be used to add animations to your components. Check the Framer Motion Documentation for examples and API details.
 
 ### Running the Development Server
 
