@@ -10,7 +10,11 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="scroll-smooth">
+    <html
+      lang="en"
+      className="scroll-smooth scrollbar-w-2 scrollbar
+    scrollbar-thumb-red hover:scrollbar-thumb-[#9f9f9f]"
+    >
       <body className={inter.className}>{children}</body>
     </html>
   );
